@@ -2,7 +2,7 @@
 The source code to the original program pre-packaged can be found here. It is recommended that you download and install the packaged version found [here](https://github.com/TomTheCatt/Charging-Sound). If a bug or issue has been discovered, please post it in the previously mentioned link.
 
 ## Install
-# Step 1
+###Step 1
 Download through Github and run `install.pyw` in the file's directory. Accept all permissions asked until none are asked.
 
 ## Changing Sounds
